@@ -55,6 +55,7 @@ letter-spacing: 8px;
     top: 482px;
   width:120px;
   line-height:50px;
+  border: none;
   /* background-color:black; */
   /* border: 2px solid black; */
   /* border-radius:53px; */
@@ -78,4 +79,5 @@ letter-spacing: 8px;
   position: absolute;
   width: 60vh;
   top: 398px;
+  font-size:1rem;
 }
