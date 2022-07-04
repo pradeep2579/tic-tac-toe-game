@@ -50,7 +50,7 @@ letter-spacing: 8px;
 
 .button{
   /* font-family: 'Bungee Shade', cursive; */
- position: absolute;
+ position: relative;
  left: 985px;
     top: 482px;
   width:120px;
