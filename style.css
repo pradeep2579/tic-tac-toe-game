@@ -64,7 +64,7 @@ letter-spacing: 8px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 44px;
+  font-size: 22px;
   margin: 4px 2px;
   cursor: pointer;
 
@@ -79,5 +79,5 @@ letter-spacing: 8px;
   position: absolute;
   width: 60vh;
   top: 398px;
-  font-size:1rem;
+ 
 }
